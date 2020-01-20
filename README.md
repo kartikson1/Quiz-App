@@ -12,7 +12,7 @@ Screen 2: Second question
 
 Screen 3: Third question
 
-<img src = "Sreenshots/Screenshot_2020-01-20-22-09-22-32_edcdeeadecad6848ec8c28bf8470822b.png" height = 720 width = 360>
+<img src = "Screenshots/Screenshot_2020-01-20-22-09-22-32_edcdeeadecad6848ec8c28bf8470822b.png" height = 720 width = 360>
 
 Screen 4: Personality quiz result, based on the answers chosen, and also with a restart button to restart the quiz:
 
