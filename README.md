@@ -4,7 +4,7 @@ This is a personality test quiz app (a very basic one) built in flutter.
 
 Question 1: (Here I picked 'White')
 
-<img src = "![Screenshot_2020-01-20-22-09-05-36_edcdeeadecad6848ec8c28bf8470822b](https://user-images.githubusercontent.com/42321401/72743783-53018180-3bd2-11ea-8ca4-fb90b57ede3e.png)" width = 10 height = 10>
+<img src = "![Screenshot_2020-01-20-22-09-05-36_edcdeeadecad6848ec8c28bf8470822b](https://user-images.githubusercontent.com/42321401/72743783-53018180-3bd2-11ea-8ca4-fb90b57ede3e.png)" width = 100 height = 100>
 
 Question 2: (Here I picked 'Rabbit')
 ![Screenshot_2020-01-20-22-09-16-31_edcdeeadecad6848ec8c28bf8470822b](https://user-images.githubusercontent.com/42321401/72743911-8fcd7880-3bd2-11ea-8d36-6f01fd78c515.png)
